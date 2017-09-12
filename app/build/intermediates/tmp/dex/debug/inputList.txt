@@ -1,0 +1,9 @@
+E:\AndroidStudioProject\MorphoSample\app\build\intermediates\classes\debug
+E:\AndroidStudioProject\MorphoSample\app\build\intermediates\pre-dexed\debug\classes-4b0a1480ac5a9fcf22a725e24b183a716f1ecb08.jar
+E:\AndroidStudioProject\MorphoSample\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1-5e7875b54790981eb1093e6a91802838e0d7cc6a.jar
+E:\AndroidStudioProject\MorphoSample\app\build\intermediates\pre-dexed\debug\MorphoSmart_SDK_6.14.1.0-86d55bbedf739302867bf98b149ec096e3f6ba2d.jar
+E:\AndroidStudioProject\MorphoSample\app\build\intermediates\pre-dexed\debug\classes-ee853b0437288371e500d4d7d8d1abd7088a2d38.jar
+E:\AndroidStudioProject\MorphoSample\app\build\intermediates\pre-dexed\debug\classes-3ee8512b04cf2d7596258f6b4554879ceeaa9060.jar
+E:\AndroidStudioProject\MorphoSample\app\build\intermediates\pre-dexed\debug\classes-3ba5f88500fa7a3255bbb73fcabfc50af41a05e8.jar
+E:\AndroidStudioProject\MorphoSample\app\build\intermediates\pre-dexed\debug\classes-04e1aa69a77c84f6e0b2ac0dcc6789005d93e823.jar
+E:\AndroidStudioProject\MorphoSample\app\build\intermediates\pre-dexed\debug\classes-38a59f8f009837b110ec3c128a4b2906d249850c.jar
